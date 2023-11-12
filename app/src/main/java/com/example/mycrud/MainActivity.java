@@ -34,9 +34,6 @@ public class MainActivity extends AppCompatActivity {
     Integer idSelecionado;
 
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
